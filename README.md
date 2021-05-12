@@ -41,8 +41,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://www.google.com/search?q=spring+framework&tbm=isch&ved=2ahUKEwi0kqH5xMPwAhVDtFMKHRFKCVYQ2-cCegQIABAA&oq=spring+fr&gs_lcp=CgNpbWcQARgAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADoHCAAQsQMQQzoECAAQQzoFCAAQsQNQmiFYtSdg9T5oAHAAeACAAfEFiAGtDJIBCTMtMS4xLjAuMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=vnibYLS7HMPozgKRlKWwBQ&bih=881&biw=1745&rlz=1C1CHBF_enIN926IN926#imgrc=KpSDOWfsPtXxlM"></code>
-
+<code><img height="20" src="C:\Users\Lenovo\Desktop"></code>
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
