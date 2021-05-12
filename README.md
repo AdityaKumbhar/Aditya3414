@@ -11,11 +11,9 @@ You can click the Preview link to take a look at your changes.
 <h1>aditya</h1>
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+
+<a href="https://twitter.com/kumbharaditya77">
+  <img align="left" alt="Aditya Kumbhar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/aditya-kumbhar-532b66155?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9yZbnm9IQHig2MyFcuhd%2FA%3D%3D/">
   <img align="left" alt="Aditya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
