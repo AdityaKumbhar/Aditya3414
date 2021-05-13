@@ -85,5 +85,9 @@ HTML         2 mins          ███████▓░░░░░░░░░
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aditya3414&show_icons=true&theme=gotham" alt="Aditya3414" />
 
+<a href="https://github.com/Aditya3414">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aditya3414&show_icons=true&theme=light&line_height=27" alt="Aditya's github stats"/>
+</a>
+
 
 
