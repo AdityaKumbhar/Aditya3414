@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @Aditya3414
+- 🔭 I’m currently working on **My Self**
+- 🤝 I’m looking for help with **Node JS , Angular 8**
+- 😄 Pronouns:He/His
 - 👀 I’m interested in Software Development , Web Development
 - 🌱 I’m currently learning Angular 8 , Node JS , Spring , Spring Boot 
 - 💞️ I’m looking to collaborate on Software Developer
