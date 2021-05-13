@@ -81,14 +81,14 @@ HTML         2 mins          ███████▓░░░░░░░░░
 <!-- TODO-IST:END -->
 
 
-📈 My GitHub Stats
+                                                                  📈 My GitHub Stats
 
 
 <a href="https://github.com/Aditya3414">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya3414&show_icons=true&theme=gotham" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya3414&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/Aditya3414">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aditya3414&show_icons=true&theme=gotham_height=27" alt="Aditya's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aditya3414&show_icons=true&theme=light&line_height=27" alt="Aditya's github stats"/>
 </a>
 
 
