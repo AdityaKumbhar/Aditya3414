@@ -49,7 +49,7 @@ Hi, I'm Aditya Kumbhar, a passionate self-taught Full Stack web developer and a 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="200" />
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@adityakumbhar](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox);
