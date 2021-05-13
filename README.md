@@ -83,9 +83,13 @@ HTML         2 mins          ███████▓░░░░░░░░░
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aditya3414&show_icons=true&theme=gotham" alt="Aditya3414" />
 
-
+<a href="https://github.com/Aditya3414">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya3414&show_icons=true&theme=gotham" />
+</a>
+<a href="https://github.com/Aditya3414">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aditya3414&show_icons=true&theme=gotham_height=27" alt="Aditya's github stats"/>
+</a>
 
 
 
