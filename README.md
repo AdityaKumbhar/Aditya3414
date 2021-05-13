@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on Software Developer
 - 📫 How to reach me kumbharaditya4212@gmail.com
 <h1> Aditya Kumbhar </h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Aditya Kumbhar</h1>
+<h3 align="center">A Passionate Software Developer From India</h3>
+
 <!---
 Aditya3414/Aditya3414 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
