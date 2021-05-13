@@ -81,7 +81,7 @@ HTML         2 mins          ███████▓░░░░░░░░░
 <!-- TODO-IST:END -->
 
 
-                                                                  📈 My GitHub Stats
+                                                              📈 My GitHub Stats
 
 
 <a href="https://github.com/Aditya3414">
