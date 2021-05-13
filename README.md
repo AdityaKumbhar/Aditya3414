@@ -53,7 +53,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@adityakumbhar](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox);
-- 📝 [Resume](https://drive.google.com/drive/u/1/my-drive)
+- 📝 [Resume](https://drive.google.com/drive/u/1/folders/1Dv2qEBhzd91xRaRR-3r9SVvXfCEHbkBO)
 
 **Languages and Tools:**  
 
