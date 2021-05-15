@@ -8,7 +8,7 @@
 - 👀 I’m interested in Software Development , Web Development
 - 🌱 I’m currently learning Angular 8 , Node JS , Spring , Spring Boot 
 - 💞️ I’m looking to collaborate on Software Developer
-- ⚡ Fun fact: My name is an anagram of "I Play Data"
+- ⚡ Fun fact: My name is an anagram of "I Play Codes"
 - 📫 How to reach me kumbharaditya4212@gmail.com
 
 
