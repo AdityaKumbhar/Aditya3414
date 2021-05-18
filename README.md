@@ -83,7 +83,7 @@ HTML         2 mins          ███████▓░░░░░░░░░
 <!-- TODO-IST:END -->
 
 
-                                                              # Github Status #
+                                                         # Github Status #
 
 
 
