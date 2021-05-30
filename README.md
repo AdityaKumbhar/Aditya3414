@@ -1,6 +1,10 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Aditya Kumbhar</h1>
 <h3 align="center">A Passionate Software Developer From India</h3>
 
+<p >
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" align='right' />  
+</p> 
+
 - 👋 Hi, I’m @Aditya3414
 - 🔭 I’m currently working on **My Self**
 - 🤝 I’m looking for help with **Node JS , Angular 8**
@@ -41,14 +45,7 @@ You can click the Preview link to take a look at your changes.
   <img align="left" alt="Aditya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-
-
 <br />
-
-
-<p >
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" align='right' />  
-</p> 
  
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@adityakumbhar](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox);
@@ -62,8 +59,8 @@ You can click the Preview link to take a look at your changes.
 
 <!--END_SECTION:-->    
                                                         
-                                                            
 
+                                                               # Github Status #
 <a href="https://github.com/Aditya3414">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya3414&theme=light&hide_langs_below=1" />
 </a>
