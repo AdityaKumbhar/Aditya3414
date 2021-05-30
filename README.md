@@ -5,23 +5,18 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" align='right' />  
 </p> 
 
-- 👋 Hi, I’m @Aditya3414
 - 🔭 I’m currently working on **My Self**
+- - 🌱 I’m currently learning Angular 8 , Node JS , Spring , Spring Boot 
 - 🤝 I’m looking for help with **Node JS , Angular 8**
 - 😄 Pronouns:He/His
-- 👀 I’m interested in Software Development , Web Development
-- 🌱 I’m currently learning Angular 8 , Node JS , Spring , Spring Boot 
-- 💞️ I’m looking to collaborate on Software Developer
-- ⚡ Fun fact: My name is an anagram &  "I Play Codes"
+- 💬 Ask me about **anything, I am happy to help**
+- ⚡ Fun fact: My name is an anagram & I With Play Codes
 - 📫 How to reach me kumbharaditya4212@gmail.com
-
-
 
 <!---
 Aditya3414/Aditya3414 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 
 
 # Connect with me<img src="https://github.com/OmkarRatnaparkhi/OmkarRatnaparkhi/blob/main/Handshake.gif" height="30px">
