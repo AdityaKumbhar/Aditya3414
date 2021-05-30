@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://twitter.com/kumbharaditya77">
   <img align="left" alt="Aditya Kumbhar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href=https://www.linkedin.com/in/aditya-kumbhar/>
+<a href=https://www.linkedin.com/in/aditya-kumbhar-532b66155?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9yZbnm9IQHig2MyFcuhd%2FA%3D%3D//>
   <img align="left" alt="Aditya's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="kumbharaditya4212@gmail.com">
