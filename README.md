@@ -12,6 +12,8 @@
 - 💬 Ask me about **anything, I am happy to help**
 - ⚡ Fun fact: My name is an anagram & I With Play Codes
 - 📫 How to reach me kumbharaditya4212@gmail.com
+- 💬 Ask me about anything, I am happy to help;
+- 📝 [Resume](https://drive.google.com/drive/u/1/folders/1Dv2qEBhzd91xRaRR-3r9SVvXfCEHbkBO)
 
 <!---
 Aditya3414/Aditya3414 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,11 +43,6 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 <br />
- 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@adityakumbhar](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox);
-- 📝 [Resume](https://drive.google.com/drive/u/1/folders/1Dv2qEBhzd91xRaRR-3r9SVvXfCEHbkBO)
-
 
 
 <h3 align="left">Languages and Tools:</h3>
