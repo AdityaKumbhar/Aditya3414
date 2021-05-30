@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <p >
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" align='right' />  
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="550" align='right' />  
 </p> 
  
 - 💬 Ask me about anything, I am happy to help;
